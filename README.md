@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-> *9+ years of experience turning data into decisions and ideas into products — by day an AVP at Synchrony, by night a SaaS founder & AI builder.*
+> *8+ years of experience turning data into decisions and ideas into products — by day an AVP at Synchrony, by night a SaaS founder & AI builder.*
 
 - 🏢 **AVP - Data Management Lead Analyst** at **Synchrony** — driving process automation, Tableau dashboards & strategic data initiatives
 - 🏆 Recipient of the **2024 CEO Award** at Synchrony
@@ -31,7 +31,7 @@
 
 | Period | Role | Highlights |
 |--------|------|------------|
-| 2024 — Present | **AVP — Data Management Lead Analyst**, Synchrony | CEO Award 2024 · Process automation · Waivers Disputes Tableau Dashboard |
+| 2024 — Present | **AVP — Data Management Lead Analyst**, Synchrony | CEO Award 2024 · GEMS Web App · Process automation · Waivers Disputes Tableau Dashboard |
 | 2022 — 2024 | **Manager Analytics**, Synchrony | Built automation saving **100+ hours/year** · Advanced Tableau & Python pipelines |
 | 2019 — 2022 | **Senior Analyst**, Synchrony | Developed GEMs Web Application — **300+ hours saved** · SQL Server optimization |
 | 2016 — 2019 | **ML / Data Engineer** | Statistical analysis · Python ML projects · SAS Base automation |
@@ -64,7 +64,7 @@
 **AI & ML**
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-95%25-412991?style=flat-square&logo=openai&logoColor=white)
-![Multi--Agent](https://img.shields.io/badge/Multi--Agent_Systems-90%25-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-90%25-CC785C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-90%25-1C3C3C?style=flat-square)
 ![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-92%25-FF6B35?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM_Integration-88%25-6B4FBB?style=flat-square)
@@ -82,16 +82,16 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🤖 **ReplX** | WhatsApp bot automation SaaS platform for Indian SMBs | Node.js, PostgreSQL, WhatsApp API, AI Agents |
+| 🤖 **ReplX / BizPilot** | WhatsApp bot automation SaaS platform for Indian SMBs | Node.js, PostgreSQL, WhatsApp API, AI Agents |
 | 👻 **Phantom** | AI-powered OSINT CLI tool for developers | Python, OpenAI, Claude |
 | 🔥 **Pyro** | C++20 compiler language — 79x faster than Python | C++, LLVM |
 | 🤖 **HeyAnsh** | 10-agent AI gateway system | Python, Multi-Agent, LLMs |
-| 📊 **Election Data Visualizer** | Real-time live vote counting & visualization app | React, PostgreSQL, WebSockets |
+| 📊 **Election Data Visualizer** | Real-time live vote counting & visualization | React, PostgreSQL, WebSockets |
 | 🔒 **TimeBomb** | Sealed letters app — deliver messages to the future | Node.js, PostgreSQL |
 | 📸 **igbot** | Instagram automation system | Python, Selenium |
 | 🤖 **AgentKit** | Tiny, transparent agent framework for OpenAI / Claude | Python |
 
-**Coming Soon:** AgentForge (no-code agent builder) · DocuMind · SentinelAI · ConvoHub · InsightPilot · Trade Bot
+**Coming Soon:** AgentForge · DocuMind · SentinelAI · ConvoHub · InsightPilot · Trade Bot
 
 ---
 
@@ -113,15 +113,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=krish9219&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/krish9219)
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=krish9219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aravind's GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish9219&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
-  </tr>
-</table>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krish9219&theme=tokyo-night&hide_border=true)](https://github.com/krish9219)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krish9219&theme=tokyonight&hide_border=true)](https://github.com/krish9219)
-
 
 </div>
 
@@ -131,7 +125,7 @@
 
 - 🏠 [aravindlabs.tech](https://aravindlabs.tech) — Agentic AI Studio (Main hub)
 - 👻 [phantom.aravindlabs.tech](https://phantom.aravindlabs.tech) — Phantom CLI
-- 🤖 [replx.in](https://replx.in) — ReplX
+- 🤖 [app.aravindlabs.tech](https://app.aravindlabs.tech) — ReplX / BizPilot App
 - 🔗 [profile.aravindlabs.tech](https://profile.aravindlabs.tech) — Personal Profile
 
 ---
