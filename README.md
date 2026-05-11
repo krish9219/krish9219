@@ -111,12 +111,17 @@
 
 <div align="center">
 
-[![Aravind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish9219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)](https://github.com/krish9219)
+[![trophy](https://github-profile-trophy.vercel.app/?username=krish9219&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/krish9219)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krish9219&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/krish9219)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=krish9219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aravind's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish9219&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krish9219&theme=tokyonight&hide_border=true)](https://github.com/krish9219)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=krish9219&theme=tokyonight&hide_border=true)
 
 </div>
 
