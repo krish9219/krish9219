@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 
-> *8+ years of experience turning data into decisions and ideas into products — by day an AVP at Synchrony, by night a SaaS founder & AI builder.*
+> *9+ years of experience turning data into decisions and ideas into products — by day an AVP at Synchrony, by night a SaaS founder & AI builder.*
 
-- 🏢 **AVP - Data Management Lead Analyst** at **Synchrony** — driving process automation, GEMS Web App, Tableau dashboards & strategic data initiatives
+- 🏢 **AVP - Data Management Lead Analyst** at **Synchrony** — driving process automation, Tableau dashboards & strategic data initiatives
 - 🏆 Recipient of the **2024 CEO Award** at Synchrony
 - 🤖 Founder of **[AravindLabs](https://aravindlabs.tech)** — Agentic AI Studio building WhatsApp SaaS, AI agents & developer tools
 - 👻 Creator of **Phantom** — AI-powered OSINT CLI tool
@@ -31,7 +31,7 @@
 
 | Period | Role | Highlights |
 |--------|------|------------|
-| 2024 — Present | **AVP — Data Management Lead Analyst**, Synchrony | CEO Award 2024 · GEMS Web App · Process automation · Waivers Disputes Tableau Dashboard |
+| 2024 — Present | **AVP — Data Management Lead Analyst**, Synchrony | CEO Award 2024 · Process automation · Waivers Disputes Tableau Dashboard |
 | 2022 — 2024 | **Manager Analytics**, Synchrony | Built automation saving **100+ hours/year** · Advanced Tableau & Python pipelines |
 | 2019 — 2022 | **Senior Analyst**, Synchrony | Developed GEMs Web Application — **300+ hours saved** · SQL Server optimization |
 | 2016 — 2019 | **ML / Data Engineer** | Statistical analysis · Python ML projects · SAS Base automation |
@@ -82,7 +82,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🤖 **ReplX / BizPilot** | WhatsApp bot automation SaaS platform for Indian SMBs | Node.js, PostgreSQL, WhatsApp API, AI Agents |
+| 🤖 **ReplX** | WhatsApp bot automation SaaS platform for Indian SMBs | Node.js, PostgreSQL, WhatsApp API, AI Agents |
 | 👻 **Phantom** | AI-powered OSINT CLI tool for developers | Python, OpenAI, Claude |
 | 🔥 **Pyro** | C++20 compiler language — 79x faster than Python | C++, LLVM |
 | 🤖 **HeyAnsh** | 10-agent AI gateway system | Python, Multi-Agent, LLMs |
