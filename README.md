@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-> *8+ years of experience turning data into decisions and ideas into products — by day an AVP at Synchrony, by night a SaaS founder & AI builder.*
+> *9+ years of experience turning data into decisions and ideas into products — by day an AVP at Synchrony, by night a SaaS founder & AI builder.*
 
 - 🏢 **AVP - Data Management Lead Analyst** at **Synchrony** — driving process automation, Tableau dashboards & strategic data initiatives
 - 🏆 Recipient of the **2024 CEO Award** at Synchrony
@@ -82,7 +82,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🤖 **ReplX / BizPilot** | WhatsApp bot automation SaaS platform for Indian SMBs | Node.js, PostgreSQL, WhatsApp API, AI Agents |
+| 🤖 **ReplX** | WhatsApp bot automation SaaS platform for Indian SMBs | Node.js, PostgreSQL, WhatsApp API, AI Agents |
 | 👻 **Phantom** | AI-powered OSINT CLI tool for developers | Python, OpenAI, Claude |
 | 🔥 **Pyro** | C++20 compiler language — 79x faster than Python | C++, LLVM |
 | 🤖 **HeyAnsh** | 10-agent AI gateway system | Python, Multi-Agent, LLMs |
@@ -125,8 +125,8 @@
 
 - 🏠 [aravindlabs.tech](https://aravindlabs.tech) — Agentic AI Studio (Main hub)
 - 👻 [phantom.aravindlabs.tech](https://phantom.aravindlabs.tech) — Phantom CLI
-- 🤖 [app.aravindlabs.tech](https://app.aravindlabs.tech) — ReplX / BizPilot App
-- 🔗 [profile.aravindlabs.tech](https://profile.aravindlabs.tech) — Personal Profile
+- 🤖 [replx.in](https://replx.in) — ReplX App
+- 🔗 [aravindlabs.tech](https://aravindlabs.tech) — Personal Profile
 
 ---
 
