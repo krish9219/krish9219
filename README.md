@@ -125,7 +125,7 @@
 
 - 🏠 [aravindlabs.tech](https://aravindlabs.tech) — Agentic AI Studio (Main hub)
 - 👻 [phantom.aravindlabs.tech](https://phantom.aravindlabs.tech) — Phantom CLI
-- 🤖 [app.aravindlabs.tech](https://app.aravindlabs.tech) — ReplX / BizPilot App
+- 🤖 [replx.in](https://replx.in) — ReplX
 - 🔗 [profile.aravindlabs.tech](https://profile.aravindlabs.tech) — Personal Profile
 
 ---
